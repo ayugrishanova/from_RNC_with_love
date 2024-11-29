@@ -10,7 +10,7 @@
 - disgust
 - anger
 
-Распределение классов в датасете: ![img](classes_distribution.jpg)
+![img](classes_distribution.jpg)
 
 Датасет состоит из следующих колонок:
 
