@@ -10,7 +10,7 @@
 - disgust
 - anger
 
-Распределение классов в датасете: 
+Распределение классов в датасете: [img](classes_distribution.jpg)
 
 Датасет состоит из следующих колонок:
 
@@ -18,5 +18,7 @@
 - replic (str): реплика без прямой речи
 - html_text (str): реплика с прямой речью, речь автора <i>в тэге</i>
 - sentiment (str): эмотивный класс
+
+На материале датасета и на базе [этой модели](https://huggingface.co/cointegrated/rubert-tiny2-cedr-emotion-detection) была дообучена multiclass classification модель. (Ссылка на huggingface)[https://huggingface.co/kplro/rubert-tiny2-cedr-rnc-emotion-detection]. Процесс дообучения представлен в emotive_detection_model.ipynb
 
 
