@@ -34,7 +34,7 @@
 
 # Emotion detection dataset from_RNC_with_love
 
-The materials of the [Russian Classics of the NKRR](http://ruscorpora.ru/search?search=CgQyAggV) corpus were used to create the dataset. The dataset includes 2,716 examples of dialogue utterances that vividly express one of the following emotions:
+The materials of the [Russian Classics of the Russian National Corpus](http://ruscorpora.ru/search?search=CgQyAggV) corpus were used to create the dataset. The dataset includes 2,716 examples of dialogue utterances that vividly express one of the following emotions:
 
 - neutral
 - joy
