@@ -54,7 +54,7 @@ The dataset consists of the following columns:
 - html_text (str): an utterance with the author's direct speech, the speech of the author <i> in the tag</i>
 - sentiment (str): emotive class
 
-[This model](https://huggingface.co/cointegrated/robert-tiny 2-edr-motion-detection) was finetuned on the dataset for the multiclass classification task. The fine-tuned model is available [on huggingface](https://huggingface.co/kplro/rubert-tiny2-cedr-rnc-emotion-detection). The fine-tuning process is presented in **emotive_detection_model.ipynb**
+[This pre-trained model](https://huggingface.co/cointegrated/rubert-tiny2-cedr-emotion-detection) was finetuned on the dataset for the multiclass classification task. The fine-tuned model is available [on huggingface](https://huggingface.co/kplro/rubert-tiny2-cedr-rnc-emotion-detection). The fine-tuning process is presented in **emotive_detection_model.ipynb**
 
 Finetuned model quality metrics on the test dataset:
 |  |  fear | sadness | neutral  |  joy  |  disgust  |  anger  |	surprise  |
